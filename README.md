@@ -17,10 +17,10 @@
 <p>
   <img src="/assets/crypto-uikit.png" width="200" />
 </p><br/>
-
 <b> Day 5: </b> SwiftUI, async, await <br/><br/>
 <p> 
   <img src="/assets/crypto-swiftui.png" width="200" />
   <img src="/assets/landmark-1.png" width="200" />
    <img src="/assets/landmark-2.png" width="200" />
 </p><br/>
+<b> Day 6: </b> Unit Tests, UI Tests, Protocol Oriented Programming, Dependency Injection, Delegate Pattern <br/><br/>
