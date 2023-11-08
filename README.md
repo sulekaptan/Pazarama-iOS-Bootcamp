@@ -7,7 +7,7 @@
 <b> Day 4: </b> RxSwift, MVVM Architecture, URLSession, Struct vs Class, Reference vs Value Type, Mutating, Tuple, Guard let, Closure <br/>
 <b> Day 5: </b> SwiftUI, async, await <br/>
 <b> Day 6: </b> Unit Tests, UI Tests, Protocol Oriented Programming, Dependency Injection, Delegate Pattern <br/>
-<b> Group Project: </b> Group project using PokeAPI 👉 https://github.com/canamaemindevar/Pokemon <br/> <br/>
+<b> Group Project: </b> Group project using PokeAPI 👉 https://github.com/sulekaptan/Pokemon <br/> <br/>
 👩‍💻 For the assignments I completed during bootcamp 👉 https://github.com/sulekaptan/Homeworks
 <hr/>
 <b>App Screenshots</b> 
